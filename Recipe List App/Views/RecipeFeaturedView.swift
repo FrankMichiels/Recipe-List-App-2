@@ -15,7 +15,7 @@ struct RecipeFeaturedView: View {
         
         VStack(alignment: .leading, spacing: 0) {
         
-            Text("Featured Recipes")
+            Text("Featured Reccipes")
                 .bold()
                 .padding(.leading)
                 .padding(.top, 40)
